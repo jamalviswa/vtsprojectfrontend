@@ -391,6 +391,8 @@ h6,
 /*** Team ***/
 .team-item {
     transition: .5s;
+    width:250px;
+    height:350px;
 }
 
 .team-social {
